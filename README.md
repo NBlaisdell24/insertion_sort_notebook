@@ -2,7 +2,7 @@
 
 ## A second-level heading
  sajdklfjsd;lfsdjfsd;lfj
- ### A third-level heading
- sd;lfjsld;fjsl;fj
+ ### Add a figure
+ ![alt text for screen readers](https://jupyterbook.org/en/stable/_images/fun-fish.png)).
 
 
