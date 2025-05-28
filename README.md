@@ -5,4 +5,15 @@
  ### Add a figure
  ![alt text for screen readers](./fish.png)
 
+```Python
+print("Hello, World!")
+```
+```C++
+int main(void)
+{
+ printf("Hello World!");
 
+  return 0;
+
+}
+```
